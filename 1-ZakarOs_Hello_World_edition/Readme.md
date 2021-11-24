@@ -9,6 +9,10 @@ there is some stuffs like, print_string etc...,that you can understand, edit it,
 
 use this simple command in linux
 
+git clone https://github.com/sad-dog/ZAKAROS/tree/main/1-HelloWorld
+
+cd src
+
 ./compile
 
 <h2>#Windows-Macos</h2>
