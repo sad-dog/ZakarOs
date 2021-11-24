@@ -1,17 +1,17 @@
-#Hello There
+<h2>Hello There</h2>
 
 So you want now write a simple os i guess,very nice!!,so for not spend your time i made this project for you!!,so try edit this files in the /src folder
 and compile it
 
 there is some stuffs like, print_string etc...,that you can understand, edit it,and compile it,so yes,thats all? no here how to compile
 
-#Linux-Ubuntu-Debian...
+<h2>#Linux-Ubuntu-Debian...</h2>
 
 use this simple command in linux
 
 ./compile
 
-#Windows-Macos
+<h2>#Windows-Macos</h2>
 
 now the stuffs is more harder, go to jslinux
 
